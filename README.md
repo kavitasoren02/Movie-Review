@@ -37,8 +37,8 @@ movie-review-platform/
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/movie-review-.git
-cd movie-review-platform
+git clone https://github.com/kavitasoren02/Movie-Review.git
+cd movie-review
 ```
 
 ---
